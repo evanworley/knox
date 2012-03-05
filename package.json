@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/LearnBoost/knox.git"
+  },
+  "dependencies": {
+    "xml2js": "0.1.13"
   }
 }
